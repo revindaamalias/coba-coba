@@ -1,0 +1,84 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "nama": "LG P120RT",
+      "harga": 2849000,
+      "img": "../assets/mesin.jpg",
+      "stock": 7,
+      "category": "LG"
+    },
+    {
+      "id": 2,
+      "nama": "LG FM1007N3W",
+      "harga": 4750000,
+      "img": "../assets/mesin.jpg",
+      "stock": 8,
+      "category": "LG"
+    },
+    {
+      "id": 3,
+      "nama": "LG F2514DTGE",
+      "harga": 11349000,
+      "img": "../assets/mesin.jpg",
+      "stock": 9,
+      "category": "LG"
+    },
+    {
+      "id": 4,
+      "nama": "LG P905R Twin Tube Washing Machine",
+      "harga": 2207000,
+      "img": "../assets/mesin.jpg",
+      "stock": 10,
+      "category": "LG"
+    },
+    {
+      "id": 5,
+      "nama": "LG T2108VS2M Smart Inverter",
+      "harga": 2798000,
+      "img": "../assets/mesin.jpg",
+      "stock": 10,
+      "category": "LG"
+    },
+    {
+      "id": 6,
+      "nama": "LG FC1207S5W",
+      "harga": 4348000,
+      "img": "../assets/mesin.jpg",
+      "stock": 10,
+      "category": "LG"
+    },
+    {
+      "id": 7,
+      "nama": "LG WP1460R",
+      "harga": 2899000,
+      "img": "../assets/mesin.jpg",
+      "stock": 10,
+      "category": "LG"
+    },
+    {
+      "id": 8,
+      "nama": "LG F2721STWV",
+      "harga": 16399000,
+      "img": "../assets/mesin.jpg",
+      "stock": 10,
+      "category": "LG"
+    },
+    {
+      "id": 9,
+      "nama": "LG FC1207S3W",
+      "harga": 4998000,
+      "img": "https://www.lg.com/ph/washing-machines/lg-fv1450h1b#none",
+      "stock": 10,
+      "category": "LG"
+    },
+    {
+      "id": 10,
+      "nama": "LG FG1612H2V",
+      "harga": 14449000,
+      "img": "https://www.lg.com/ph/washing-machines/lg-fv1450h1b#none",
+      "stock": 9,
+      "category": "LG"
+    }
+  ]
+}
